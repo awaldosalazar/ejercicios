@@ -36,5 +36,4 @@ for i in range(cantidad_rondas-1):
         mayor = dif2
         ganador = ganador_ronda[1][0]
     
-    
 print(f"{ganador} {mayor}")
