@@ -2,12 +2,12 @@
 
 **Ejercicios 1**
 
-##Ejemplo
+## Ejemplo
 ```bash
 https://mail.alejandrowaldo.com/ejercicio1.php?caracteres=11%2015%2038&instrucciones=CeseAlFuego%20CorranACubierto&trasmisor=XXcaaamakkCCessseAAllFueeegooDLLKmmNNN
 ```
 
-##Resultado 
+## Resultado 
 ```bash
 https://mail.alejandrowaldo.com/resultado.txt
 ```
