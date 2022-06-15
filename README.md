@@ -1,6 +1,7 @@
 # ejercicios
 
 ejercicios 1
+
 example: https://mail.alejandrowaldo.com/ejercicio1.php?caracteres=11%2015%2038&instrucciones=CeseAlFuego%20CorranACubierto&trasmisor=XXcaaamakkCCessseAAllFueeegooDLLKmmNNN
 
 result: https://mail.alejandrowaldo.com/resultado.txt
