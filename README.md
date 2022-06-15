@@ -10,5 +10,7 @@ result: https://mail.alejandrowaldo.com/resultado.txt
 
 
 ejercicios 2
+
 example: python3 ejercicio2.py 5 140 82 89 134 90 110 112 106 88 90 
+
 result: file resultado.txt
