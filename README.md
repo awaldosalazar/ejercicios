@@ -1,13 +1,13 @@
 # ejercicios
 
-**Ejercicios 1**
+## Ejercicios 1
 
-## Ejemplo
+**Ejemplo**
 ```bash
 https://mail.alejandrowaldo.com/ejercicio1.php?caracteres=11%2015%2038&instrucciones=CeseAlFuego%20CorranACubierto&trasmisor=XXcaaamakkCCessseAAllFueeegooDLLKmmNNN
 ```
 
-## Resultado 
+**Resultado**
 ```bash
 https://mail.alejandrowaldo.com/resultado.txt
 ```
@@ -15,12 +15,15 @@ https://mail.alejandrowaldo.com/resultado.txt
 <img width="908" alt="Captura de Pantalla 2022-06-15 a la(s) 6 44 26 a m" src="https://user-images.githubusercontent.com/73403289/173819479-0186b77e-5534-4453-9f38-f66205f5ccb8.png">
 
 
-**ejercicios 2**
+## Ejercicios 2
 
-ejemplo
+**Ejemplo**
 ```bash
 python3 ejercicio2.py 5 140 82 89 134 90 110 112 106 88 90 
 ```
 
+**Resultado**
 
-result: file resultado.txt
+```bash
+file resultado.txt
+```
